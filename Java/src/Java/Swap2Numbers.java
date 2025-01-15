@@ -11,7 +11,7 @@ public class Swap2Numbers {
 //		b = t;
 //		System.out.println("Number after swapping " + a + " " + b);
 		
-		//Method 2 : Wothout any third variable
+		//Method 2 : Without any third variable
 		System.out.println("Number before swapping " + a + " " + b);
 		a=a+b;
 		b=a-b;
